@@ -59,11 +59,11 @@
 [Github Wiki](https://github.com/shatyuka/Zhiliao/wiki)
 
 ## 下载
-[Github Release](https://github.com/shatyuka/Zhiliao/releases/latest)
+[Github Release](https://github.com/Maozai-Teng/Zhiliao/releases)
 
-[Xposed Repo](https://repo.xposed.info/module/com.shatyuka.zhiliao)
+[Xposed Repo（旧版）](https://repo.xposed.info/module/com.shatyuka.zhiliao)
 
-[蓝奏云](https://wwa.lanzoux.com/b00tscbwd) 密码:1hax
+[蓝奏云（旧版）](https://wwa.lanzoux.com/b00tscbwd) 密码:1hax
 
 ## License
 
